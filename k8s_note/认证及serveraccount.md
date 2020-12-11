@@ -38,4 +38,4 @@ Starting to serve on 127.0.0.1:8001
 [root@node01 ~]# http://127.0.0.1:8001/api/v1/namespaces/default
 ```
 
-![image-20201211172845356](/Users/lintao/typora_note/k8s_note/认证及serveraccount.assets/image-20201211172845356.png)
+![image-20201211172845356](./认证及serveraccount.assets/image-20201211172845356.png)
