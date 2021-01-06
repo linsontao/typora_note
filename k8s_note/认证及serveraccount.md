@@ -174,7 +174,7 @@ users:
     client-certificate-data: REDACTED
     client-key-data: REDACTED
 
-# 创建一个认证账号，使用账号密码认证
+# 创建一个认证账号，使用账号密码认证 -- 这里相当于创建一个普通的认证
 [root@node01 ~]# kubectl config set-credentials lintao-create --username=lintaoadmin --password=uXFGweU9l35qcif
 User "lintao-create" set.
 
